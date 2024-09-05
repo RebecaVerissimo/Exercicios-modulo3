@@ -1,0 +1,13 @@
+.form {
+    padding: 1rem;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.btn_submit {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
