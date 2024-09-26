@@ -1,0 +1,221 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "Rebeca Gonçalves",
+      "sexo": "Feminino",
+      "cpf": "766.417.802-95",
+      "data_nascimento": "1997-11-13",
+      "email": "rebeca@soespodonto.br",
+      "senha": "WyOb2RNJm1",
+      "endereco": {
+        "cep": "77378-971",
+        "logradouro": "Avenida 23 de Julho",
+        "complemento": "s/n Quadra 1 Lote 13",
+        "unidade": "AGC Chapada de Natividade",
+        "bairro": "Setor Central",
+        "localidade": "Chapada da Natividade",
+        "uf": "TO",
+        "ibge": "1705102",
+        "gia": "",
+        "ddd": "63",
+        "siafi": "0080"
+      }
+    },
+    {
+      "id": "2",
+      "nome": "Renata Stella Catarina Bernardes",
+      "sexo": "Feminino",
+      "cpf": "564.659.156-26",
+      "data_nascimento": "1997-01-25",
+      "email": "renata@ig.com",
+      "senha": "9p952jmOws",
+      "endereco": {
+        "cep": "79116-520",
+        "logradouro": "Rua Antonia Nogueira Simões Corrêa",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Coophasul",
+        "localidade": "Campo Grande",
+        "uf": "MS",
+        "ibge": "5002704",
+        "gia": "",
+        "ddd": "67",
+        "siafi": "9051"
+      }
+    },
+    {
+      "id": "3",
+      "nome": "Ricardo Francisco Renan Castro",
+      "sexo": "Masculino",
+      "cpf": "268.874.620-01",
+      "data_nascimento": "2000-07-06",
+      "email": "ricardo_francisco_castro@duoarq.com",
+      "senha": "1234567",
+      "endereco": {
+        "cep": "69901-166",
+        "logradouro": "Rua Plácido de Castro",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Adalberto Aragão",
+        "localidade": "Rio Branco",
+        "uf": "AC",
+        "ibge": "1200401",
+        "gia": "",
+        "ddd": "68",
+        "siafi": "0139"
+      }
+    },
+    {
+      "id": "4",
+      "nome": "Heitor Henry João da Rocha",
+      "idade": 66,
+      "cpf": "274.853.537-56",
+      "rg": "13.774.749-4",
+      "data_nascimento": "1958-05-19",
+      "sexo": "Masculino",
+      "signo": "Leão",
+      "mae": "Vitória Teresinha Bruna",
+      "pai": "Gustavo Bento da Rocha",
+      "email": "heitor_darocha@asconnet.com.br",
+      "senha": "i4dprunlHQ",
+      "endereco": {
+        "cep": "49095-240",
+        "logradouro": "Rua Maria do Carmo Andrade Costa",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Jabotiana",
+        "localidade": "Aracaju",
+        "uf": "SE",
+        "ibge": "2800308",
+        "gia": "",
+        "ddd": "79",
+        "siafi": "3105"
+      }
+    },
+    {
+      "id": "5",
+      "nome": "Isabelly Marcela Assunção",
+      "cpf": "869.660.661-25",
+      "data_nascimento": "1954-07-08",
+      "sexo": "Feminino",
+      "email": "isabelly_marcela_assuncao@cedda.com.br",
+      "senha": "o3F7OtRdad",
+      "endereco": {
+        "cep": "72872-010",
+        "logradouro": "Avenida Marginal",
+        "complemento": "(Quadras 01 a 09,23,32,33,43,44)",
+        "unidade": "",
+        "bairro": "Jardim Ipanema",
+        "localidade": "Valparaíso de Goiás",
+        "uf": "GO",
+        "ibge": "5221858",
+        "gia": "",
+        "ddd": "61",
+        "siafi": "1066"
+      }
+    },
+    {
+      "id": "7577",
+      "nome": "Rebeca Verissimo",
+      "sexo": "Feminino",
+      "data_nascimento": "2024-03-05",
+      "cpf": "24589632178",
+      "email": "rebecaveri@gamil.com",
+      "senha": "123456",
+      "endereco": {
+        "cep": "88117-351",
+        "logradouro": "Rua Santo Antônio",
+        "complemento": "de 958/959 ao fim",
+        "unidade": "",
+        "bairro": "Barreiros",
+        "localidade": "São José",
+        "uf": "SC",
+        "ibge": "4216602",
+        "gia": "",
+        "ddd": "48",
+        "siafi": "8327"
+      }
+    }
+  ],
+  "locais": [
+    {
+      "id": "08be",
+      "nome_do_destino": "Museo Histórico de Santa Catarina - Palácio Cruz e Sousa",
+      "localidade": "Florianopolis",
+      "cep": "88010-100",
+      "descricao": "Este imponente palácio do século XVIII agora é um museu com obras de arte e mobílias históricas.",
+      "endereco": "Museu Histórico de Santa Catarina, 227, Praça XV de Novembro, Centro, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Región Sur, 88010-100, Brasil",
+      "coordenadas": {
+        "lat": -27.596804779171798,
+        "lon": -48.54993066378887
+      },
+      "user_id": "2"
+    },
+    {
+      "id": "da50",
+      "nome_do_destino": "Praia da Joaquina",
+      "localidade": "Lagoa da Conceição, Florianópolis - SC",
+      "cep": "88062426",
+      "descricao": "A Praia da Joaquina ou 'Joaca', como é apelidada pelos moradores, é a praia das 'altas' ondas, geralmente muito frias. No verão, as areias da Joaca se tornam palco de eventos, muitos deles esportivos. O aglomerado de rochas, situado à esquerda, chama a atenção pelo tamanho das pedras e beleza. Além da praia e do surfe, as dunas também são famosas, consideradas as melhores do sul do país. Lá se criou o sandboard, uma espécie de surfe, mas na areia. Hoje é a atração principal dos que não se arriscam a pegar ondas no mar.",
+      "endereco": "Avenida Prefeito Acácio Garibaldi San Thiago, Praia da Joaquina, Lagoa da Conceição, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Región Sur, 88062-426, Brasil",
+      "coordenadas": {
+        "lat": -27.629161193916524,
+        "lon": -48.44824783263669
+      },
+      "user_id": "1"
+    },
+    {
+      "id": "1658",
+      "nome_do_destino": "Fundação Projeto TAMAR ",
+      "localidade": "Barra da Lagoa, Florianópolis - SC",
+      "cep": "88061150",
+      "descricao": "A Fundação Projeto TAMAR trabalha na conscientização e educação ambiental de visitantes, comunidades e pescadores. O Centro de Visitantes de Florianópolis conta com infraestrutura que inclui cinco tanques de observação com exemplares de quatro das cinco espécies de tartarugas marinhas que desovam no Brasil, sala de vídeo e exposições, espaço infantil e loja para venda de produtos TAMAR.",
+      "endereco": "Rua Aconchego do Mar, Barra da Lagoa, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Región Sur, 88061-150, Brasil",
+      "coordenadas": {
+        "lat": -27.572190014710507,
+        "lon": -48.42769150215823
+      },
+      "user_id": "1"
+    },
+    {
+      "id": "2810",
+      "nome_do_destino": "Praia Daniela",
+      "localidade": "Daniela, Florianópolis - SC",
+      "cep": "88053-100",
+      "descricao": "Praia da Daniela é uma mini-península - uma ponta de areia com vegetação - que se estende para o mar, avançando sobre as águas. Uma comunidade onde residências de luxo se misturam com casas tradicionais e que conserva a tranquilidade de quem procura ficar longe da excessiva movimentação turística. É banhada pelas águas calmas e mornas da baía norte, perfeitas para quem frequenta a praia com crianças e idosos.",
+      "endereco": "Rua Recanto das Margaridas, Daniela, Canasvieiras, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Región Sur, 88053-100, Brasil",
+      "coordenadas": {
+        "lat": -27.446591250414336,
+        "lon": -48.52804902049197
+      },
+      "user_id": "3"
+    },
+    {
+      "id": "59f2",
+      "nome_do_destino": "Morro da Coroa",
+      "localidade": "Parque Municipal da Lagoinha do Leste - Pântano do Sul, Florianópolis - SC",
+      "cep": "88067-079",
+      "descricao": "É um mirante natural que é acessado apenas por trilha ou barco, esse paraíso é realmente um dos pontos mais belos do litoral catarinense e brasileiro. As rochas dispostas no alto do morro são responsáveis pelo seu nome, já que estão dispostas de uma maneira que lembra as pontas de uma coroa. A vista do Morro da Corona até a praia da Lagoinha é impressionante.",
+      "endereco": "Morro da Coroa (via sul), Pântano do Sul, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Región Sur, 88067-079, Brasil",
+      "coordenadas": {
+        "lat": -27.781872733321332,
+        "lon": -48.488244986088866
+      },
+      "user_id": "4"
+    },
+    {
+      "id": "db58",
+      "nome_do_destino": "Praia Canasvieiras",
+      "localidade": "Canasvieiras, Florianópolis - SC",
+      "cep": "88054-100",
+      "descricao": "Praia com bares e restaurantes à beira-mar ideal para esportes aquáticos, tomar um banho de sol e fazer um piquenique.",
+      "endereco": "Rua José Mussi, Canasvieiras, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Región Sur, 88054-100, Brasil",
+      "coordenadas": {
+        "lat": -27.426652040306703,
+        "lon": -48.45156295190238
+      },
+      "user_id": "5"
+    }
+  ]
+}
